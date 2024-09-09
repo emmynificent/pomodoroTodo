@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Oluwaseun O\\source\\repos\\pomodoro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1C5F2B-DFF4-448A-9543-6B5D74B365A8}|pomodoro\\pomodoro.csproj|c:\\users\\oluwaseun o\\source\\repos\\pomodoro\\pomodoro\\migrations\\20240908171142_seedinitialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1C5F2B-DFF4-448A-9543-6B5D74B365A8}|pomodoro\\pomodoro.csproj|solutionrelative:pomodoro\\migrations\\20240908171142_seedinitialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1C5F2B-DFF4-448A-9543-6B5D74B365A8}|pomodoro\\pomodoro.csproj|c:\\users\\oluwaseun o\\source\\repos\\pomodoro\\pomodoro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1C5F2B-DFF4-448A-9543-6B5D74B365A8}|pomodoro\\pomodoro.csproj|solutionrelative:pomodoro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1C5F2B-DFF4-448A-9543-6B5D74B365A8}|pomodoro\\pomodoro.csproj|c:\\users\\oluwaseun o\\source\\repos\\pomodoro\\pomodoro\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1C5F2B-DFF4-448A-9543-6B5D74B365A8}|pomodoro\\pomodoro.csproj|solutionrelative:pomodoro\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1C5F2B-DFF4-448A-9543-6B5D74B365A8}|pomodoro\\pomodoro.csproj|c:\\users\\oluwaseun o\\source\\repos\\pomodoro\\pomodoro\\data\\taskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1C5F2B-DFF4-448A-9543-6B5D74B365A8}|pomodoro\\pomodoro.csproj|solutionrelative:pomodoro\\data\\taskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1C5F2B-DFF4-448A-9543-6B5D74B365A8}|pomodoro\\pomodoro.csproj|c:\\users\\oluwaseun o\\source\\repos\\pomodoro\\pomodoro\\model\\reminder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1C5F2B-DFF4-448A-9543-6B5D74B365A8}|pomodoro\\pomodoro.csproj|solutionrelative:pomodoro\\model\\reminder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1C5F2B-DFF4-448A-9543-6B5D74B365A8}|pomodoro\\pomodoro.csproj|c:\\users\\oluwaseun o\\source\\repos\\pomodoro\\pomodoro\\model\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1C5F2B-DFF4-448A-9543-6B5D74B365A8}|pomodoro\\pomodoro.csproj|solutionrelative:pomodoro\\model\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 244,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240908171142_seedInitialize.cs",
+              "DocumentMoniker": "C:\\Users\\Oluwaseun O\\source\\repos\\pomodoro\\pomodoro\\Migrations\\20240908171142_seedInitialize.cs",
+              "RelativeDocumentMoniker": "pomodoro\\Migrations\\20240908171142_seedInitialize.cs",
+              "ToolTip": "C:\\Users\\Oluwaseun O\\source\\repos\\pomodoro\\pomodoro\\Migrations\\20240908171142_seedInitialize.cs",
+              "RelativeToolTip": "pomodoro\\Migrations\\20240908171142_seedInitialize.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxEAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T17:11:43.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "seed.cs",
+              "DocumentMoniker": "C:\\Users\\Oluwaseun O\\source\\repos\\pomodoro\\pomodoro\\seed.cs",
+              "RelativeDocumentMoniker": "pomodoro\\seed.cs",
+              "ToolTip": "C:\\Users\\Oluwaseun O\\source\\repos\\pomodoro\\pomodoro\\seed.cs",
+              "RelativeToolTip": "pomodoro\\seed.cs",
+              "ViewState": "AQIAAD0AAAAAlpmZmZkJwA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T00:01:27.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Oluwaseun O\\source\\repos\\pomodoro\\pomodoro\\Program.cs",
+              "RelativeDocumentMoniker": "pomodoro\\Program.cs",
+              "ToolTip": "C:\\Users\\Oluwaseun O\\source\\repos\\pomodoro\\pomodoro\\Program.cs",
+              "RelativeToolTip": "pomodoro\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T23:02:42.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Oluwaseun O\\source\\repos\\pomodoro\\pomodoro\\Data\\TaskDbContext.cs",
+              "RelativeDocumentMoniker": "pomodoro\\Data\\TaskDbContext.cs",
+              "ToolTip": "C:\\Users\\Oluwaseun O\\source\\repos\\pomodoro\\pomodoro\\Data\\TaskDbContext.cs",
+              "RelativeToolTip": "pomodoro\\Data\\TaskDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T23:30:45.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Reminder.cs",
+              "DocumentMoniker": "C:\\Users\\Oluwaseun O\\source\\repos\\pomodoro\\pomodoro\\Model\\Reminder.cs",
+              "RelativeDocumentMoniker": "pomodoro\\Model\\Reminder.cs",
+              "ToolTip": "C:\\Users\\Oluwaseun O\\source\\repos\\pomodoro\\pomodoro\\Model\\Reminder.cs",
+              "RelativeToolTip": "pomodoro\\Model\\Reminder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T22:47:07.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "C:\\Users\\Oluwaseun O\\source\\repos\\pomodoro\\pomodoro\\Model\\Todo.cs",
+              "RelativeDocumentMoniker": "pomodoro\\Model\\Todo.cs",
+              "ToolTip": "C:\\Users\\Oluwaseun O\\source\\repos\\pomodoro\\pomodoro\\Model\\Todo.cs",
+              "RelativeToolTip": "pomodoro\\Model\\Todo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAUwAkAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T22:32:17.279Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
